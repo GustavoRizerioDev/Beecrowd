@@ -1,2 +1,18 @@
-# Beecrowd
-Este repositório contém soluções para problemas do Beecrowd, uma plataforma para prática de programação competitiva. Aqui, você encontrará implementações organizadas por níveis de dificuldade e categorias, utilizando diferentes linguagens de programação, como Python, C++, Java, entre outras.
+
+# Exercícios Práticos de Java - Breecrod
+
+Este repositório contém a resolução dos exercícios práticos realizados na plataforma **Breecrod** utilizando a linguagem **Java**.
+
+## Sobre o Projeto
+
+O objetivo deste repositório é compartilhar as soluções desenvolvidas para os exercícios práticos propostos pela plataforma Breecrod. Os exercícios cobrem diversos conceitos fundamentais de programação em Java, permitindo praticar e reforçar o conhecimento adquirido.
+
+
+## Tecnologias Utilizadas
+
+- **Java**: Linguagem de programação usada para resolver os exercícios
+- **JDK 17**: Versão utilizada para compilar e rodar os programas
+- **IDE**: (Opcional) IntelliJ IDEA / Eclipse / VSCode
+
+
+
